@@ -242,7 +242,7 @@
 - [generator-feathers](https://github.com/feathersjs/generator-feathers) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [generator-feathers-plugin](https://github.com/feathersjs/generator-feathers-plugin) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
-- [FeatthersQuery](https://trinly01.github.io/FeathersQuery/) - Lightweight Graphical User Interface (GUI) for Feathers Services, just a way to edit documents manually with a user-friendly interface, as well as create and delete documents and collections
+- [FeathersQuery](https://trinly01.github.io/FeathersQuery/) - Lightweight Graphical User Interface (GUI) for Feathers Services, just a way to edit documents manually with a user-friendly interface, as well as create and delete documents and collections
 - [feathers-bootstrap](https://github.com/daffl/feathers-bootstrap) - Feathers application bootstrap and configuration using JSON files
 - [feathers-generator](https://github.com/feathersjs-ecosystem/feathers-generator) - A Metalsmith based generator using `feathers-bootstrap`
 - [feathers-fs](https://github.com/feathersjs/feathers-fs) - Use the FeathersJS service interface to read and write data in the file system.
